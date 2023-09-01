@@ -1,0 +1,36 @@
+
+
+.encabezadoIzquierdo{
+    padding: 12px;
+}
+
+.encabezadoDerecho{
+  padding: 12px;
+  text-align:center;
+}
+
+.izquierdo {
+    padding: 12px;
+}
+.izquierdo .container{
+    padding: 15px;
+}
+
+.centro{
+    padding: 15px;
+}
+
+.derecho{
+    
+    background: rgb(135, 206, 250);
+}
+
+.piePagina{
+    background:rgb(142, 206, 142);
+  padding-top: 15px;
+  text-align: center;
+}
+
+.textoPiePagina{
+  font-size: 0.8rem;
+}
