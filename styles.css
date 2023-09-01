@@ -13,20 +13,27 @@
     padding: 12px;
 }
 .izquierdo .container{
-    padding: 15px;
+    padding: 12px;
 }
 
 .centro{
-    padding: 15px;
+    padding: 12px;
 }
 
+.centro .container{
+    
+    padding-top: 12px;
+}
+.centro .col{
+    
+    padding-top: 24px;
+}
 .derecho{
     
-    background: rgb(135, 206, 250);
+    padding-top: 12px;
 }
 
 .piePagina{
-    background:rgb(142, 206, 142);
   padding-top: 15px;
   text-align: center;
 }
